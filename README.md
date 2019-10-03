@@ -1,1 +1,1 @@
-This is an exercise from 'React JS Crash Course' by Traversy Media.
+This is Todo List App from 'React JS Crash Course' by Traversy Media.
